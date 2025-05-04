@@ -13,7 +13,7 @@ To develop a system that accurately classifies breast cancer tumors using machin
 - Visualizes key data insights and model performance
 - Supports early diagnosis through automated classification
 
-## 🗃 Dataset
+## Dataset
 
 The system uses the **Breast Cancer Wisconsin (Diagnostic) Dataset**, which includes 30 real-valued features computed from digitized images of fine needle aspirate (FNA) of breast mass.
 
@@ -41,6 +41,6 @@ Dataset Source: [UCI ML Repository – Breast Cancer Wisconsin (Diagnostic)](htt
 - Random Forest Classifier
 - Naive Byes Classifier
 
-## 🧠 Best Performing Model
+## Best Performing Model
 
 The **Random Forest** classifier demonstrated the highest accuracy and overall performance, making it the final model choice for this system.
